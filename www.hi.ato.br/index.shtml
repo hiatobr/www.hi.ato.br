@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html dir='auto' lang='pt-BR'>
+<head>
+<!--#include file='./html/comum/head/metadados.htm'-->
+<!--#include file='./html/index/head/includes.htm'-->
+<!--#include file='./html/index/head/estilos.htm'-->
+<!--#include file='./html/index/head/titulo.htm'-->
+</head>
+<body>
+<div class='conteudo'>
+<!--#include file='./html/index/body/indice.htm'-->
+<div class='divisoria'>&nbsp;</div>
+<!--#include file='./html/index/body/titulo.htm'-->
+<!--#include file='./html/index/body/links.htm'-->
+<hr>
+<!--#include file='./html/index/body/principios.htm'-->
+<hr>
+<!--#include file='./html/index/body/licenca.htm'-->
+</div>
+</body>
+</html>
+

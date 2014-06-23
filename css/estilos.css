@@ -1,0 +1,113 @@
+@charset 'UTF-8';
+/*
+	Folha de estilos para hi.ato.br
+	Domínio público 2013
+	Colaborador principal: hiato@riseup.net
+	Com grande ajuda de outros desocupados.
+	Todo e qualquer CSS é copiado de algum lugar, cale a boca e copie o meu também, nem me avise
+*/
+body {
+	background-color:black;
+	color:#C8C8C8;
+	font-family:"Consolas","Monaco","Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono","Courier New", "Monospace";
+	font-weight:bold;
+}
+a {
+	color:#C8C8C8;
+}
+ul {
+	list-style-type:none;
+}
+hr {
+	color:#C8C8C8;
+	background-color:#C8C8C8;
+	height:4px;
+	-moz-border-radius:100%;
+	-webkit-border-radius:100%;
+	-opera-border-radius:100%;
+	-khtml-border-radius:100%;
+	border-radius:100%;
+}
+.conteudo {
+	padding:0.5em;
+	-moz-border-radius:1em;
+	-webkit-border-radius:1em;
+	-opera-border-radius:1em;
+	-khtml-border-radius:1em;
+	border-radius:1em;
+	-moz-box-shadow:0em 0em 1em 0.5em rgba(0.5,0,0,0);
+	-webkit-box-shadow:0em 0em 1em 0.5em rgba(0.5,0,0,0);
+	box-shadow:0em 0em 1em 0.5em rgba(0.5,0,0,0);
+}
+.indice {
+	position:fixed;
+	top:0.5em;
+	right:0;
+	left:0;
+	text-align:center;
+	background:#C8C8C8;
+}
+.indice ul {
+	display:inline-table;
+	padding:0;
+}
+.indice li {
+	display:inline-table;
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	padding-left:0.7em;
+	padding-right:0.7em;
+	background:#C8C8C8;
+	-moz-border-radius:0.1em;
+	-webkit-border-radius:0.1em;
+	-opera-border-radius:0.1em;
+	-khtml-border-radius:0.1em;
+	border-radius:0.1em;
+	-moz-box-shadow:0em 0em 0.7em 0.5em rgba(0,0,0,0.5);
+	-webkit-box-shadow:0em 0em 0.7em 0.5em rgba(0,0,0,0.5);
+	box-shadow:0em 0em 0.7em 0.5em rgba(0,0,0,0.5);
+}
+.indice a.vermelho {
+	color:#FF0000;
+}
+.indice a {
+	background:#C8C8C8;
+	color:black;
+	text-decoration:none;
+}
+.divisoria {
+	padding:0.5em;
+}
+.titulo {
+	text-align:center;
+}
+.links img {
+	height:48px;
+}
+.links ul, .links li {
+	display:inline;
+	padding:0.5em;
+}
+.indice_site img {
+	height:32px;
+}
+.atividades h3, .atividades ul li a {
+	color:#FF0000;
+}
+.codificado p {
+	color:#00FF00;
+}
+p.sobre a {
+	font-size:xx-large;
+}
+ul.normal {
+	list-style-type:circle;
+}
+.principios h2 {
+	border-radius:1em;
+	box-shadow:inset 0.5em 0.5em 0em 0em rgba(0,0,0,0), 0.5em 0.5em 0.2em 0.1em rgba(0.5,0,0,0);
+}
+.principios p {
+	padding:0.5em;
+}
+

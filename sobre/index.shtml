@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html dir='auto' lang='pt-BR'>
+<head>
+<!--#include virtual='../html/comum/head/metadados.htm'-->
+<!--#include virtual='../html/comum/head/includes.htm'-->
+<!--#include virtual='../html/comum/head/estilos.htm'-->
+<!--#include virtual='../html/sobre/head/titulo.htm'-->
+</head>
+<body>
+<div class='conteudo'>
+<!--#include virtual='../html/comum/body/indice.htm'-->
+<div class='divisoria'>&nbsp;</div>
+<!--#include virtual='../html/sobre/body/titulo.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/cabecalho.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/sobre.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/creditos.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/disclaimer.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/licenca.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/licenca_adicional.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/agradecimentos.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/codigo.htm'-->
+</div>
+</body>
+</html>
+
