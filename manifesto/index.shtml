@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html dir='auto' lang='pt-BR'>
+<head>
+<!--#include virtual='../html/comum/head/metadados.htm'-->
+<!--#include virtual='../html/comum/head/includes.htm'-->
+<!--#include virtual='../html/comum/head/estilos.htm'-->
+<!--#include virtual='../html/manifesto/head/titulo.htm'-->
+</head>
+<body>
+<div class='conteudo'>
+<!--#include virtual='../html/comum/body/indice.htm'-->
+<div class='divisoria'>&nbsp;</div>
+<!--#include virtual='../html/manifesto/body/titulo.htm'-->
+<hr>
+<!--#include virtual='../html/manifesto/body/origem.htm'-->
+<!--#include virtual='../html/manifesto/body/principios.htm'-->
+</div>
+</body>
+</html>
+
